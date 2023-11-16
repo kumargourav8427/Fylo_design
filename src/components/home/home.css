@@ -1,0 +1,47 @@
+.border_radius_50 {
+  font-weight: 600;
+}
+
+.border_radius_50 img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.deals_day_images img {
+  height: 150px;
+}
+
+.border_radius_10 img {
+  border-radius: 10px;
+}
+
+.text-grey {
+  color: gray;
+}
+
+.border_radius_20 img {
+  border-radius: 20px;
+}
+
+@font-face {
+  font-family: imported;
+  src: url(../../assets//font//Lato-Bold.ttf);
+}
+
+.text_bold {
+  font-family: imported;
+}
+
+@media screen and (max-width:767px) {
+
+  .padding_top {
+    padding-top: 10px;
+  }
+  .kids_birthday_h img{
+    height: 300px;
+  }
+  .margin_bottom{
+    margin-bottom: 10px;
+  }
+}

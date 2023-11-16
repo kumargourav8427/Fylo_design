@@ -1,0 +1,8 @@
+@font-face {
+    font-family: imported;
+    src: url(../assets//font//Lato-Bold.ttf);
+}
+
+.footer{
+    font-family: imported;
+}
